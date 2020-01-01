@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://boingiega.100days.dev/sitemap.xml
